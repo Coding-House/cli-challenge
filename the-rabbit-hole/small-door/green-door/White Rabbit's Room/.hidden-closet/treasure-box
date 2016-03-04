@@ -1,0 +1,12 @@
+OMG! No way! I can't believe the white rabbit would give you his favorite bowler hat!
+
+So jealous right now...
+
+Well, I suppose there's only one thing left to do.
+
+In your terminal, use the curl command to ping the Coding House CLI Challenge endpoint:
+
+curl http://codinghouse.co/api/webhooks/cli-challenge/<your_email_address>
+(make sure to use your email address)
+
+And that's a wrap! Check your inbox for a confirmation email, and well done!

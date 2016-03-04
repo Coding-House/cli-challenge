@@ -1,0 +1,17 @@
+A gatekeeper stands steadfastly in your way.
+
+When you try to pass, he snarls menacingly and gestures rudely. You interpret this as meaning you need a password to continue.
+
+Bummer...
+
+There seems to be some gibberish on that crumpled note. It probably has the password, but who has time to read through all that?
+
+Oh wait! We can use Global Regular Expression Print (grep) command.
+
+Use grep like this:
+
+cat <file_to_read> | grep <expression_to_search_for>
+
+That line in the middle is read 'pipe'. It takes the output of the left-hand side (the cat) and "pipes" it into the right-hand side (our grep filter).
+
+Try to grep for password

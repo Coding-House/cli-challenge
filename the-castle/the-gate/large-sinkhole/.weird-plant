@@ -1,0 +1,37 @@
+Whoa!
+
+That password just dropped the rude gatekeeper into that large sinkhole. And out popped a weird plant. What happened?
+
+We used the move (mv) command!
+
+The move command is used like this:
+
+mv <file_to_move> <place_to_move_it_to>
+
+So we moved the gatekeeper to the large-sinkhole directory, and the weird plant to the current working directory.
+
+Forgot what you just typed? Use the up and down arrows to scroll through recently used commands.
+
+
+Now, about this plant. We should probably take care of it. Let's make a garden!
+
+First, make a new directory called "beautiful-garden". Use the mkdir command like this:
+
+
+mkdir beautiful-garden
+
+
+Next add some water using the touch command to create a new file called 'water' like this:
+
+
+touch water
+
+
+Finally, use the move command to put the weird plant and water in the beautiful garden.
+
+
+
+
+Ahh... another job well done!
+
+Hold on, weren't we searching for the white rabbit? Maybe the crumpled note has another CLUE...
